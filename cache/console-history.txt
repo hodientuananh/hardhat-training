@@ -1,0 +1,325 @@
+await tkVault.getBalance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+await tk.balanceOf(tkVaultAddr);
+await tk.balanceOf(ownerAddr);
+await tkVault.withdraw(ownerAddr, randomCode, 1000000, tkAddr);
+await tk.balanceOf(tkVaultAddr);
+await tkVault.withdraw(ownerAddr, randomCode, 4000000, tkAddr);
+tkVault.withdraw(ownerAddr, randomCode, 4000000, tkAddr);
+randomCode = "0xdeb85bca59356429f4c2d0962282d3e099c07c990796f2b9200daf455f5ef3cf";
+await tkVault.getUserInfo(ownerAddr, tkAddr)
+await tkVault.getBalance(ownerAddr, tkAddr)
+tkVault.getBalance(ownerAddr, tkAddr)
+await tk.balanceOf(tkVaultAddr);
+await tk.balanceOf(ownerAddr);
+await tkVault.deposit(ownerAddr, 5000000, tkAddr);
+var tkVault = await TKVAULT.attach(tkVaultAddr);
+var TKVAULT = await ethers.getContractFactory("TokenVaultSecretUI");
+var tkVault = TKVAULT.attach(tkVaultAddr);
+var TKVAULT = ethers.getContractFactory("TokenVaultSecretUI");
+await tkVault.deposit(ownerAddr, 5000000, tkAddr);
+await tk.balanceOf(ownerAddr);
+await tk.allowance(ownerAddr, tkVaultAddr);
+tk.allowance(ownerAddr, tkVaultAddr);
+await tk.approve(tkVaultAddr, 5000000);
+tk.approve(tkVaultAddr, 5000000);
+var tkVault = await TK.attach(tkVaultAddr);
+var tk = await TK.attach(tkAddr);
+var tk = await TK.attach(tkVaultAddr);
+var TK = await ethers.getContractFactory("TKXToken");
+var TK = ethers.getContractFactory("TKXToken");
+var tk = ethers.getContractFactory("TKXToken");
+var tkVaultAddr = "0x8A6fC83Ff8AA3a18f9BDD94CC1a9235C82bdC8bA";
+var ownerAddr = "0xb76434Ad3817BD548553f37248F827c3e6e2A6d6";
+var tkAddr = "0x392C03945A0D8809Ccc50656a4fA694C67162786";
+await tk.balanceOf("0xcee7ef67F63cCfD9cF10107A9Ff416Ab29a1ee02");
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkAddr);
+await tkVaultSecret.deposit(ownerAddr, 8000000, tkAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tk.balanceOf(ownerAddr);
+await tk.balanceOf(tkContractVaultAddr);
+var tkVaultSeret = await TKCONTRACTVAULT.attach(tkContractVaultAddr);
+var TKCONTRACTVAULT = await ethers.getContractFactory("TokenVaultSecretUI");
+tkContractVaultAddr
+await tk.balanceOf(tkContractVaultAddr);
+await tk.balanceOf(ownerAddr);
+await tk.balanceOf(tkContractVaultAddr);
+tkAddr
+var tk = await TK.attach(tkAddr);
+var TK = await ethers.getContractFactory("TKXToken");
+await tk.balanceOf(tkContractVaultAddr);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tk.balanceOf(ownerAddr);
+await tk.balanceOf(tkContractVaultAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tk.balanceOf(tkContractVaultAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tkVaultSecret.deposit(ownerAddr, 8000000, tkAddr);
+var tkVaultSeret = await TKCONTRACTVAULT.attach(tkContractVaultAddr);
+tkContractVaultAddr
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tkVaultSecret.deposit(ownerAddr, 8000000, tkAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tkVaultSecret.deposit(ownerAddr, 8000000, tkAddr);
+await tk.approve(tkContractVaultAddr, 8000000);
+await tk.balanceOf(ownerAddr);
+await tk.balanceOf(tkContractVaultAddr);
+tk.balanceOf(tkContractVaultAddr);
+await tkVaultSecret.withdraw(ownerAddr, randomCode, 1000000, tkAddr);
+await tkVaultSecret.getUserInfo(ownerAddr, tkAddr);
+await tkVaultSecret.getBalance(ownerAddr, tkAddr);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+await tk.approve(tkContractVaultAddr, 1000000);
+var tkVaultSeret = await TKCONTRACTVAULT.attach(tkContractVaultAddr);
+var tkContractVaultAddr = "0x4db14C8f7f22d02e26745098201529f0F1351E44";
+await tkVaultSecret.withdraw(ownerAddr, randomCode, 1000000, tkAddr);
+var randomCode = "0xdeb85bca59356429f4c2d0962282d3e099c07c990796f2b9200daf455f5ef3cf";
+await tkVaultSecret.getUserInfo(ownerAddr, tkAddr);
+await tkVaultSecret.getBalance(ownerAddr, tkAddr);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkAddr);
+await tk.allowance(ownerAddr, tkContractVaultAddr);
+tk.allowance(ownerAddr, tkContractVaultAddr);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkContractVaultAddr);
+await tk.approve(tkContractVaultAddr, 5000000);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkContractVaultAddr);
+await tk.approve(tkContractVaultAddr, 1000000);
+await tkVaultSecret.deposit(ownerAddr, 1000000, tkContractVaultAddr);
+tkVaultSecret.deposit(ownerAddr, 1000000, tkContractVaultAddr);
+await tkVaultSecret.deposit(owner, 1000000, tkContractVaultAddr);
+var tkVaultSecret = await TKCONTRACTVAULT.attach(tkContractVaultAddr);
+await tkVaultSecret.deposit(owner, 1000000, tkContractVaultAddr);
+var tkVaultSeret = await TKCONTRACTVAULT.attach(tkContractVaultAddr);
+await tkVaultSecret.deposit(owner, 1000000, tkContractVaultAddr);
+tkVaultSecret.deposit(owner, 1000000, tkContractVaultAddr);
+var ownerAddr = "0xb76434Ad3817BD548553f37248F827c3e6e2A6d6"
+await tk.approve(tkContractVaultAddr, 1000000);
+var tkVaultSeret = await TKCONTRACTVAULT.attach(tkContractVaultAddr);
+var tk = await TK.attach(tkAddr);
+var TKCONTRACTVAULT = await ethers.getContractFactory("TokenVaultSecretUI");
+var TK = await ethers.getContractFactory("TKXToken");
+var TKCONTRACTVAULT = ethers.getContractFactory("TokenVaultSecretUI");
+var TK = ethers.getContractFactory("TKXToken");
+var tkContractVaultAddr = "0xcee7ef67F63cCfD9cF10107A9Ff416Ab29a1ee02";
+var tkAddr = "0x392C03945A0D8809Ccc50656a4fA694C67162786"
+tokenVaultBalance
+var tokenVaultBalance = await tkVault.getBalance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+randomCode
+var randomCode = await tkVault.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 1000000, "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+await tk.approve("0x935838dAe6B901Ef7fedFe0e041423406528E376", 1000000);
+await tk.approve(0x935838dAe6B901Ef7fedFe0e041423406528E376, 1000000);
+tk.approve(0x935838dAe6B901Ef7fedFe0e041423406528E376, 1000000);
+var tk = await TK.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786")
+var TK = await ethers.getContractFactory("TKXToken");
+var tk = TK.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786")
+var TK = ethers.getContractFactory("TKXToken");
+await tkVault.getBalance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+tkVault.getBalance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var tkVault = await TkVaultSecret.attach("0x935838dAe6B901Ef7fedFe0e041423406528E376");
+var TkVaultSecret = await ethers.getContractFactory("TokenVaultSecretUI");
+var tkVault = await TkVaultSecret.attach("0x935838dAe6B901Ef7fedFe0e041423406528E376");
+var tkVault = TkVaultSecret.attach("0x935838dAe6B901Ef7fedFe0e041423406528E376");
+var TkVaultSecret = ethers.getContractFactory("TokenVaultSecretUI");
+balance
+var balance = await tkVault.getBalance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+userInfo[0];
+var userInfo = await tkVault.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+await tkVault.withdrawAll("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0xdeb85bca59356429f4c2d0962282d3e099c07c990796f2b9200daf455f5ef3cf", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+console.log(await tkVault.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786"));
+await console.log(tkVault.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786"));
+console.log(tkVault.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786"));
+console.log(tkVault.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+console.log(randomCode)
+var randomCode = await tkVault.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 1000000, "0x392C03945A0D8809Ccc50656a4fA694C67162786");
+await tk.approve("0xCAf4cd4D66f091db7ce51a526289341444e9B60e", 1000000);
+tk.approve("0xCAf4cd4D66f091db7ce51a526289341444e9B60e", 1000000);
+var tokenAddr = "0x392C03945A0D8809Ccc50656a4fA694C67162786";
+var tk = await Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = await ethers.getContractFactory("TKXToken");
+var tkVault = await TkvaultSecret.attach("0xCAf4cd4D66f091db7ce51a526289341444e9B60e");
+tkVault = TkvaultSecret.attach("0xCAf4cd4D66f091db7ce51a526289341444e9B60e");
+var TkvaultSecret = await ethers.getContractFactory("TokenVaultSecretUI");
+TkvaultSecret = ethers.getContractFactory("TokenVaultSecretUI");
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+var token = await Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = await ethers.getContractFactory("TKXToken");
+var token = Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = ethers.getContractFactory("TKXToken");
+var Token = ethers.getContractFactory("TokenVaultSecret");
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+var token = await Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = await ethers.getContractFactory("TKXToken");
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+token
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+var token = await Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = await ethers.getContractFactory("TokenVaultSecret");
+let Token = await ethers.getContractFactory("TokenVaultSecret");
+let token = Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+let Token = ethers.getContractFactory("TokenVaultSecret");
+await tkVaultSecret.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await tkVaultSecret.withdraw("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+await tkVaultSecret.getUserInfo("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await tkVaultSecret.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 1000000);
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x1897478C027014759178B280bfE17676aa56421e")
+await token.approve("0x1897478C027014759178B280bfE17676aa56421e", 1000000);
+token.approve("0x1897478C027014759178B280bfE17676aa56421e", 1000000);
+var tkVaultSecret = await TKVaultSecret.attach("0x1897478C027014759178B280bfE17676aa56421e");
+var TKVaultSecret = await ethers.getContractFactory("TokenVaultSecret");
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x3AB52fF53c91247cA8867EDcafFBdB5aC091eb11")
+await token.approve("0x3AB52fF53c91247cA8867EDcafFBdB5aC091eb11", 1000000);
+token.approve("0x3AB52fF53c91247cA8867EDcafFBdB5aC091eb11", 1000000);
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var token = await Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = await ethers.getContractFactory("TKXToken");
+var token = await ethers.getContractFactory("TKXToken");
+var tkVaultSecret = await TKVaultSecret.attach("0x3AB52fF53c91247cA8867EDcafFBdB5aC091eb11");
+var TKVaultSecret = await ethers.getContractFactory("TokenVaultSecret");
+var TKVaultSecret = ethers.getContractFactory("TokenVaultSecret");
+await tokenVault.getDepositedAmount("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await token.getDepositedAmount("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x63992A501b918A3BF52592C6F05e9425D32096e4")
+await tokenVault.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 1000000);
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x63992A501b918A3BF52592C6F05e9425D32096e4")
+await token.approve("0x63992A501b918A3BF52592C6F05e9425D32096e4", 5000000);
+var tokenVault = await TokenVault.attach("0x63992A501b918A3BF52592C6F05e9425D32096e4")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+await tokenVault.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 5000000000);
+await tokenVault.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 5000000);
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0xD55253D93357e220ab68Aa7109bc4165DEF884Bd")
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x392C03945A0D8809Ccc50656a4fA694C67162786")
+await token.approve("0xD55253D93357e220ab68Aa7109bc4165DEF884Bd", 5000000000);
+await token.balanceOf("0xD55253D93357e220ab68Aa7109bc4165DEF884Bd")
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96")
+await tokenVault.deposit("0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96", 5000000);
+await token.allowance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96")
+await token.balanceOf("0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96")
+await token.approve("0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96", 5000000000);
+await token.balanceOf("0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96")
+token.balanceOf("0x7C3996Ef190C462fe5549BEb8cE4C785829c7F96")
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await token.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 5000000);
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+await token.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", approvalAmount);
+await tokenVault.deposit("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 5000000);
+await token.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 5000000);
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await token.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "5000000");
+var tokenVault = await TokenVault.attach("0xD55253D93357e220ab68Aa7109bc4165DEF884Bd")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+await token.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+var token = await Token.attach("0x392C03945A0D8809Ccc50656a4fA694C67162786");
+var Token = await ethers.getContractFactory("TKXToken");
+await tokenVault.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+await tokenVault.getTokenAddr()
+tokenVault.getTokenAddr()
+var tokenVault = await TokenVault.attach("0xB47Ab920BB3953bBf0945c5B175Fb9afAdD2302F")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+await tokenVault.getBalance("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6");
+var tokenVault = await TokenVault.attach("0x8c40F803af5ac932Be3fb0969c5eba5e6F30D0cd")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+await tokenVault.getBalance();
+tokenVault.getBalance();
+var tokenVault = await TokenVault.attach("0x6a380912342348cCb44deEC84D3D80097fA06E62")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+await tokenVault.deposit(5000000);
+var tokenVault = await TokenVault.attach("0x4E66aA2589e9a838fdbAAAdE0250A26312B86DdA")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+await tokenVault.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await tokenVault.approve("0x6001b004c077a8bA1Ae26Df70588AA6F0357edF0", "5000000");
+var tokenVault = await TokenVault.attach("0x6001b004c077a8bA1Ae26Df70588AA6F0357edF0")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+var approveTx = await tokenVault.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", approvalAmount);
+await tokenVault.deposit(approvalAmount);
+var approvalAmount = ethers.parseUnits("100", 10);
+var tokenVault = await TokenVault.attach("0x2d0B4ed9a7FCF2E11b8EE95983048F65d1eaBD1d")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+var TokenVault = await ethers.getContractFactory("0x2d0B4ed9a7FCF2E11b8EE95983048F65d1eaBD1d")
+var TokenVault = ethers.getContractAt("0x2d0B4ed9a7FCF2E11b8EE95983048F65d1eaBD1d")
+var TokenVault = ethers.getContractAt("0xD664cF2766865F8Cc13a7E7dC41f6479dF02ebd9")
+ethers.getContract("0xD664cF2766865F8Cc13a7E7dC41f6479dF02ebd9")
+var TokenVault = ethers.getContract("0xD664cF2766865F8Cc13a7E7dC41f6479dF02ebd9")
+var TokenVault = ethers.getContractFactory("0xD664cF2766865F8Cc13a7E7dC41f6479dF02ebd9")
+var TokenVault = TokenVault("0xD664cF2766865F8Cc13a7E7dC41f6479dF02ebd9")
+await tokenVault.deposit(10000);
+await tkxToken.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", "100000000");
+await tkxToken.approve("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6", 100000000);
+await tkxToken.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var tkxToken = await TKXToken.attach("0xde9D916d08Bb4Cf9ED8A3Bd3Ec63f62aE3EFF8A0")
+await tkxToken.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var tkxToken = await TKXToken.attach("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var tkxToken = await TKXToken("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var TKXToken = await ethers.getContractFactory("TKXToken");
+var tkxToken = await TKXToken("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var TKXToken = await ethers.getContractFactory("TKXToken");
+var token = await ethers.getContractFactory("TKXToken");
+await tokenVault.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+tokenVault.balanceOf("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await tokenVault.deposit(10000);
+var tokenVault = await TokenVault.attach("0x87f6A099c0e9B2F63355A0B23dFE8a9Fa5A4cDdA");
+var TokenVault = await ethers.getContractFactory("TokenVault");
+await tokenVault.deposit(10000);
+var tokenVault = await TokenVault.attach("0x40961e21E24d0dFB4665cA3542f2CaD010bf3189");
+var tokenVault = await TokenVault.attach("0x40961e21E24d0dFB4665cA3542f2CaD010bf3189"");
+var TokenVault = await ethers.getContractFactory("TokenVault");
+await tokenVault.deposit(10000);
+var tokenVault = await TokenVault.attach("0xbaDC544a957d9653181871e418C0b77F2f56Ba11");
+var TokenVault = await ethers.getContractFactory("TokenVault");
+await tokenVault.deposit(10000);
+await tokenVault.getSender();
+await tokenVault.getDepositedAmount("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+var tokenVault = await TokenVault.attach("0xEbBEfa17cC4d74Ff96A17D9CE2bC2F2F21A2aD42")
+var TokenVault = await ethers.getContractFactory("TokenVault");
+await tokenVault.getSender();
+var tokenVault = await TokenVault.attach("0x11d696B70b923bb4BEd4d4B5FD75303fDAaA5879");
+await tokenVault.getSender();
+var tokenVault = await TokenVault.attach("0x8C7e82B6E5eEEb716f56E2CdacFedcEE87d84A95");
+msg.sender
+await tokenVault.deposit(1000000);
+await tokenVault.deposit(depositAmount);
+depositAmount = parseInt("10000", 10);
+await tokenVault.getDepositedAmount("0xb76434Ad3817BD548553f37248F827c3e6e2A6d6")
+await tokenVault.getDepositedAmount()
+var tokenVault = await TokenVault.attach("0xde396D0CAe3020F894602698b748fc0ea7294a64")
+var TokenVault = await ethers.getContractFactory("TokenVault");
+var tokenVault = await TokenVault.attach("0xde396D0CAe3020F894602698b748fc0ea7294a64")
+var TokenVault = ethers.getContractFactory("TokenVault");
+await tkVault.getDepositedAmount()
+var tkVault = TkVault.attach("0xde396D0CAe3020F894602698b748fc0ea7294a64")
+await tkVault.getDepositedAmount()
+await tkVault.    function getDepositedAmount(address sender) public view returns (uint256) {
+tkVault.getDepositedAmount()
+await tkVault.deposit(10000);
+await tkVault.deposit(10000)
+tkVault.deposit(10000)
+var tkVault = await TkVault.attach('0xde396D0CAe3020F894602698b748fc0ea7294a64')
+await tkVault.deposit(1000);
+var tkVault = await TkVault.attach('0xB78BEEa62Ae0A21C0A3c06B910382C5fB26a2f2c')
+await tkVault.getDeposit();
+await tkVault.deposit(1000);
+await tkVault.getTotalDeposit();
+tkVault.getTotalDeposit();
+var tkVault = await TkVault.attach('0xAAD5106e93457343ccB910b7efD45CFedA3939ad')
+var TkVault = await ethers.getContractFactory("TokenVault")
+var TokenVault = await ethers.getContractFactory("TokenVault")
+const TokenVault = await ethers.getContractFactory("TokenVault");
+delete TokenVault
+clear TokenVault
+TokenVault = await ethers.getContractFactory("TokenVault");
+const TokenVault = await ethers.getContractFactory("TokenVault");
+const TokenVault = ethers.getContractFactory("TokenVault");
+await contract.getTotalDeposit()
+contract.getTotalDeposit()
+await contract.getDeposit()
+await contract.deposit(100)
+contract = await ethers.getContractAt("TokenVault", addressSource)
+const contract = await ethers.getContractAt("TokenVault", addressSource)
+const contract = await ethers.getContract("TokenVault", addressSource)
+const addressSource = '0xb76434Ad3817BD548553f37248F827c3e6e2A6d6';
